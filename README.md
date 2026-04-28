@@ -24,10 +24,10 @@ A C# console application that generates reports from training data using LINQ.
 This project uses an in-memory repository to simulate a database.
 
 ## How to Run
-```bash
+bash
 dotnet run
 
 ## Future Improvements
-- Integration with database (Entity Framework Core)
-- REST API with ASP.NET Core
-- Frontend interface
+Integration with database (Entity Framework Core)
+REST API with ASP.NET Core
+Frontend interface
